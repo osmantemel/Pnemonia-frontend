@@ -10,7 +10,7 @@ Zature hastalığının teşhisi için kullanılan bir React.js uygulamasıdır.
 2. **Teşhis Sonuçları:**
    - Fotoğraf yüklendikten sonra, uygulama otomatik olarak Zature hastalığı teşhisi koyar ve sonuçları ekranda görüntüler.
 
-## Ekran Görüntüsü
+## UYGULAMA GÖRÜNTÜSÜ
 
 ![Uygulama Ekran Görüntüsü](images/page.png)
 
@@ -19,7 +19,7 @@ Zature hastalığının teşhisi için kullanılan bir React.js uygulamasıdır.
 Proje dosyalarını bilgisayarınıza klonlayın ve aşağıdaki adımları takip edin:
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/Zature-Hastalik-Teşhisi.git
-cd Zature-Hastalik-Teşhisi
+git clone https://github.com/osmantemel/Pnemonia-frontend.git
+cd  Pnemonia-frontend
 npm install
 npm start
