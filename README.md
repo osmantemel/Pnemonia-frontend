@@ -1,0 +1,1 @@
+> Zature hastalığının teşhisi için react.js ile fotoğraf yükleme ve sonuçları yazdırmak için önyüz
